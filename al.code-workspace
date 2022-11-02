@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "app5"
+                    },
+                    {
+                        "path":  "app5.Test"
                     }
                 ],
     "settings":  {
